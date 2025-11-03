@@ -38,6 +38,9 @@ const Home = () => {
               <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-gray-900 leading-tight">
                 Your Trusted Partner for <span className="text-orange-600">Home & Office</span> Maintenance
               </h1>
+              <h3 className="text-2xl md:text-2xl lg:text-2xl font-normal text-gray-900 leading-tight">
+                Pakistans first membership based home maintenance company.
+              </h3>
               <p className="text-lg md:text-xl text-gray-600 leading-relaxed">
                 Professional, verified technicians at your doorstep. From electrical work to deep cleaning—we handle everything with trust, convenience, and professionalism.
               </p>
