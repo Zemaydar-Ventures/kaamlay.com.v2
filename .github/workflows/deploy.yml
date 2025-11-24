@@ -24,6 +24,6 @@ jobs:
           username: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWORD }}
           port: 21
-          local-dir: ./build/
+          local-dir: ./work/build/
           # Upload into Hostinger public_html (FTP root)
           server-dir: ./
